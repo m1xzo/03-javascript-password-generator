@@ -20,7 +20,7 @@ After click on the button to generate a password, a series of prompts appear ask
 ## Screenshot
 
 The following image shows the web application's appearance and functionality:
-![The Password Gnerator includes a header, a card with text area, and a button to generate password at the bottom of the page.](./assets/captures_chrome-capture-2022-9-31.png)
+![The Password Gnerator includes a header, a card with text area, and a button to generate password at the bottom of the page.](./assets/images/captures_chrome-capture-2022-9-31.png)
 
 ## Link
 
